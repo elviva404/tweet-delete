@@ -217,24 +217,8 @@ The project uses Travis for CI/CD.
 
 util.py has 1 functions.
 
-```python
-None
-```
-
 entry.py has 0 functions.
 
 deleter.py has 14 functions.
 
 main.py has 3 functions.
-
-```python
-None
-```
-
-```python
-None
-```
-
-```python
-None
-```
